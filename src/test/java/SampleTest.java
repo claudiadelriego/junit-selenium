@@ -11,7 +11,11 @@ public void simpleTest(){
 	
 	
 }
+public void simpleTestFail(){
+	int a=1;
+	int b=2;
+	assertTrue(a+b==4);
 	
 	
-	
+}
 }
