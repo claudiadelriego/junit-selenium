@@ -11,6 +11,7 @@ public void simpleTest(){
 	
 	
 }
+@Test
 public void simpleTestFail(){
 	int a=1;
 	int b=2;
